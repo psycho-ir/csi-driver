@@ -1,7 +1,7 @@
 package driver
 
 const (
-	PluginName    = "csi.hetzner.cloud"
+	PluginName    = "cloud.hetzner.csi.dobs"
 	PluginVersion = "1.2.2"
 
 	MaxVolumesPerNode = 16
